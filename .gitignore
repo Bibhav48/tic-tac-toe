@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment and package management files
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variables
+.env
+
+# Pygame media files (recordings and blunder screenshots)
+media/
+*.mp4
+*.jpeg
+*.jpg
+*.png
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Cache and temporary files
+*.tmp
+*.temp
+*.log
